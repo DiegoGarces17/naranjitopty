@@ -1,0 +1,81 @@
+{
+    "slug": "el naranjito",
+    "title": "Combos",
+    "description": "combos y productos",
+    "items":[
+        {
+            "urlimagen" : "comboamigo2.jpeg",
+            "nombre": "Combo amigo 2",
+            "descripcion": "4 arepas con todo, una litro y medio, 2 flan, gratis 2 tres leches",
+            "precio": "25"
+        },
+        {
+            "urlimagen" : "comboamigo3.jpeg",
+            "nombre": "Combo amigo 3",
+            "descripcion": "4 hot dogs tradicionales, una litro y medio, 4 porciones de papas fritas, 6 galletas",
+            "precio": "25"
+        },
+        {
+            "urlimagen" : "combocuartopollo.jpeg",
+            "nombre": "Combo 1/4 de pollo",
+            "descripcion": "1/4 de pollo, (1 pocion de papas fritas, patacones o yuca frita), 1 cocacola, 1 porcion de arroz, 1 porcion de ensalada ",
+            "precio": "5.99"
+        },
+        {
+            "urlimagen" : "combopersonal1.jpeg",
+            "nombre": "Combo personal 1",
+            "descripcion": "5 empanadas, 1 hotdog tradicional, 1 cocacola, 1 flan gratis",
+            "precio": "7.50"
+        },
+        {
+            "urlimagen" : "combopersonal2.jpeg",
+            "nombre": "Combo personal 2",
+            "descripcion": "5 empanas, 1 arepa con todo, 1 soda, 3 galletas",
+            "precio": "7.99"
+        },
+        {
+            "urlimagen" : "combopersonal3.jpeg",
+            "nombre": "Combo personal 3",
+            "descripcion": "1 patacon con todo, 1 cocacola, 1 postre tres leches",
+            "precio": "9.99"
+        },
+        {
+            "urlimagen" : "combopersonal4.jpeg",
+            "nombre": "Combo personal 4",
+            "descripcion": "1 arepa burguer, 1 cocacola, 1 postre de tu preferencia",
+            "precio": "7.99"
+        },
+        {
+            "urlimagen" : "combopersonal5.jpeg",
+            "nombre": "Combo personal 5",
+            "descripcion": "1 patan burguer, 1 cocacola, 3 galletas",
+            "precio": "7.99"
+        },
+        {
+            "urlimagen" : "combopersonal6.jpeg",
+            "nombre": "Combo personal 6",
+            "descripcion": "1 salchipapa, 1 cocacola, 1 flan",
+            "precio": "8.90"
+        },
+        {
+            "urlimagen" : "combopersonal7.jpeg",
+            "nombre": "Combo personal 7",
+            "descripcion": "1 hamburguesa, 1 orden de papas fritas, 1 cocacola, 1 flan o 1 tres leches",
+            "precio": "9.25"
+        },
+        {
+            "urlimagen" : "combopollo.jpeg",
+            "nombre": "Combo pollo entero",
+            "descripcion": "1 pollo asado, 3 acompañamientos de tu preferencia, 1 orden de arroz, 1 orden de ensalada, 8 salsas, 1 gaseosa litro y medio, 6 galletas",
+            "precio": "18.90"
+        },
+        {
+            "urlimagen" : "promohamburguesa.jpeg",
+            "nombre": "Promocion hamburguesas",
+            "descripcion": "4 hamburguesas, 3 acompañamientos de tu preferencia, 1 orden de arroz, 1 orden de ensalada, 8 salsas, 1 gaseosa litro y medio, 6 galletas",
+            "precio": "18.90"
+        }
+    ]
+
+
+}

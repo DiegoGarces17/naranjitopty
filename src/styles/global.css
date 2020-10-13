@@ -1,5 +1,51 @@
-@tailwind base;
 
-@tailwind componets;
+@tailwind components;
 
 @tailwind utilities;
+
+.tarjetas-list{
+    columns: 3;
+    -moz-columns: 3;
+ }
+ .tarjeta{
+    height: 28rem
+ }
+ .tarjetas-list li{
+    break-inside: avoid;
+ }
+ .responsive-image {
+    position: relative;
+    max-width: 100%;
+  }
+  .bandera{
+   height: 40px;
+   width: 40px;
+  }
+  img {
+   max-width: 100%;
+   max-height: 100%;
+}
+.hijo {
+   height: 100%;
+   
+
+}
+nav{
+   position: relative;
+   align-items: center;
+   
+}
+nav div {
+   align-items: center
+}
+.imagentarjeta{
+   height: 15rem;
+}
+.imagenmodal{
+   height: 25rem;
+   align-items: center;
+}
+.navitem {
+   padding-right: 10px;
+   padding-left: 10px;
+}
